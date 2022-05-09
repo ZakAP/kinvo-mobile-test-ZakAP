@@ -56,5 +56,5 @@
 #### Modo Alternativo
 
 1. Alternativamente, no projeto tem um arquivo chamado: `app-debug.apk`
-2. Ele pode ser encontrado no projeto pelo caminho: `kinvo_mobile_test_zakap\android\app\build\outputs\apk\debug\app-debug.apk`
+2. Ele pode ser encontrado no projeto pelo caminho: `kinvo_mobile_test_zakap\src\APK\app-debug.apk`
 3. Passe esse arquivo para seu smartphone e execute ele. Isso vai instalar uma versão do projeto no seu aparelho.
